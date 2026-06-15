@@ -1,19 +1,20 @@
-# <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Alekssus+%F0%9F%91%8B;AI-Native+Developer+%7C+Vibe+Coder&background=0D1117">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Alekssus+%F0%9F%91%8B;AI-Native+Developer+%7C+Vibe+Coder&background=FFFFFF">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=600&color=00FF99&center=true&vCenter=true&width=500&height=100&lines=Alekssus;%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D1%81%D0%BE%D1%84%D1%82;%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D1%8E+%D0%B8%D0%B4%D0%B5%D0%B8;%D1%82%D0%B2%D0%BE%D1%80%D1%8E+%D1%81+%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8&background=0D1117">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=600&color=000000&center=true&vCenter=true&width=500&height=100&lines=Alekssus;%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D1%81%D0%BE%D1%84%D1%82;%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D1%8E+%D0%B8%D0%B4%D0%B5%D0%B8;%D1%82%D0%B2%D0%BE%D1%80%D1%8E+%D1%81+%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8&background=FFFFFF" width="500" height="100">
 </picture>
+
 
 ---
 
 ## 🧠 Обо мне
 
-Привет! Меня зовут Alekssus. Мой интерес — превращать нестандартные идеи в работающие приложения. В этом меня сильно поддерживает ИИ, который берёт на себя рутину и позволяет сосредоточиться на логике и структуре.
+Привет! Меня зовут Alekssus. Мой интерес — превращать нестандартные идеи в работающие приложения. Я полностью беру на себя концепцию, архитектуру и логику проектов, а реализацию кодовой базы выстраиваю через связку ИИ-инструментов. Для меня это способ не отвлекаться на рутину и собирать рабочие прототипы на стыке мысли и технологий.
 
-Для меня разработка — это, в первую очередь, творчество и способ разобраться в том, как устроены сложные вещи. Мне нравится придумывать и реализовывать необычные концепты.
+В работе я не ограничиваюсь одной нейросетью. Мой процесс устроен как оркестровка: я распределяю задачи между разными моделями и агентами (например, в VS Code), подбирая под каждый этап подходящий инструмент. Понимание того, как правильно составить промпт и декомпозировать сложную абстрактную идею, позволяет мне быстро переносить фантазии в рабочий код.
 
-*   🧠 **Мой подход:** Мы с ИИ работаем в паре, что позволяет мне фокусироваться на проектировании, а не на синтаксисе.
-*   🌀 **Что мне интересно:** Нестандартные задачи, эксперименты и смелые гибриды идей.
-*   📈 **Моя цель:** Постоянно узнавать новое, создавать то, чем интересно пользоваться, и просто получать удовольствие от процесса.
+*   🛠 **Как я пишу:** проектирую системы, пишу точечные промпты и управляю пулом ИИ-агентов для автоматизации сборки.
+*   🌀 **Что мне интересно:** нестандартные задачи, гибриды разных концептов и проверка необычных гипотез.
+*   📈 **Моя цель:** создавать продукты, которыми интересно пользоваться, параллельно разбираясь в новых технологиях.
 
 ---
 
@@ -23,7 +24,7 @@
 | :--- | :--- |
 | **Основной язык** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
 | **Для системного софта** | <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> |
-| **ИИ-ассистенты** | <img src="https://img.shields.io/badge/AI_Assistants-412991?style=for-the-badge&logo=openai&logoColor=white"/> |
+| **ИИ и Агенты** | <img src="https://img.shields.io/badge/AI_Assistants-412991?style=for-the-badge&logo=openai&logoColor=white"/> |
 | **Инструменты** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
 
 ---
@@ -35,14 +36,14 @@
 Экспериментальный криптографический арт-проект на Rust. Утилита шифрования файлов с GUI, которая использует гугологические примитивы (функция Аккермана, число Райо) для защиты от брутфорса на GPU и ASIC.
 
 *   AES-256-GCM, Argon2id, 100% Safe Rust
-*   Стеганография (прячем зашифрованный файл в PNG)
+*   Стеганография
 *   Drag-and-drop, минималистичный GUI
 
 > «Скрестить криптографию и науку об огромных числах — звучит безумно, но это интересно и работает.»
 
 ### 🚧 В планах
 
-Помимо AleksCypher, есть несколько локальных наработок: Telegram-боты с нестандартной логикой и эксперименты с GUI. Со временем самые интересные из них появятся здесь.
+Помимо AleksCypher, есть несколько локальных наработок: Telegram-боты для разных задач и эксперименты с GUI. Со временем самые интересные из них могут появится здесь.
 
 ---
 
@@ -70,5 +71,5 @@
 *   **Telegram:** [@Alekssus2](https://t.me/Alekssus2)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AlekssusDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=AlekssusDev&label=Profile%20Views&countColor=%23263759" />
 </p>
