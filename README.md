@@ -1,10 +1,19 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=180&section=header&text=Alekssus%20Dev&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=600&color=00FF99&center=true&vCenter=true&width=500&height=100&lines=Alekssus;%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D1%81%D0%BE%D1%84%D1%82;%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D1%8E+%D0%B8%D0%B4%D0%B5%D0%B8;%D1%82%D0%B2%D0%BE%D1%80%D1%8E+%D1%81+%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8&background=0D1117">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=600&color=000000&center=true&vCenter=true&width=500&height=100&lines=Alekssus;%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D1%81%D0%BE%D1%84%D1%82;%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D1%8E+%D0%B8%D0%B4%D0%B5%D0%B8;%D1%82%D0%B2%D0%BE%D1%80%D1%8E+%D1%81+%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8&background=FFFFFF" width="500" height="100">
 </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AlekssusDev?style=social" alt="Звёзды" />
+  <img src="https://img.shields.io/github/followers/AlekssusDev?style=social" alt="Подписчики" />
+  <img src="https://img.shields.io/github/commit-activity/m/AlekssusDev/AleksCypher" alt="Активность" />
+</p>
 
 
----
 
 ## 🧠 Обо мне
 
@@ -16,18 +25,20 @@
 *   🌀 **Что мне интересно:** нестандартные задачи, гибриды разных концептов и проверка необычных гипотез.
 *   📈 **Моя цель:** создавать продукты, которыми интересно пользоваться, параллельно разбираясь в новых технологиях.
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Цитата дня" />
+</p>
 
 ## 🛠️ Мой стек
 
 | Направление | Технологии |
 | :--- | :--- |
-| **Основной язык** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> |
-| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
-| **Бэкенд и боты** | <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> |
-| **Для системного софта** | <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> |
-| **ИИ и Агенты** | <img src="https://img.shields.io/badge/AI_Assistants-412991?style=for-the-badge&logo=openai&logoColor=white"/> |
-| **Инструменты** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
+| **Основной язык** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Бэкенд и боты** | ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) |
+| **Для системного софта** | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
+| **ИИ и Агенты** | ![AI Assistants](https://img.shields.io/badge/AI_Assistants-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Инструменты** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
@@ -49,7 +60,7 @@
 
 ---
 
-## 📈 Статистика
+## 📊 Статистика
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -75,3 +86,5 @@
 <p align="right">
   <img src="https://api.visitorbadge.io/api/visitors?path=AlekssusDev&label=Profile%20Views&countColor=%23263759" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=120&section=footer&animation=fadeIn" width="100%"/>
